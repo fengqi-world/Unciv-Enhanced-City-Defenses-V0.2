@@ -54,8 +54,7 @@
     "requiredTech": "Chivalry",
     "uniques": [
       "[+1 Gold] [in this city] <after discovering [Flight]>",
-      "Destroyed when the city is captured",
-      "[+5]% Production when constructing [Military] units [in this city]"
+      "Destroyed when the city is captured"
     ]
   },
   {
